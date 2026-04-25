@@ -11,7 +11,7 @@ Este proyecto recoge un recurso didáctico interactivo diseñado para ayudar al 
 - Utilizar las calificaciones como herramienta de mejora.
 
 ## Recurso interactivo publicado
-(pegaré aquí la URL de GitHub Pages cuando esté activada)
+https://mtgonzalezm.github.io/infografia-calificaciones-educamadrid/
 
 ## Características del recurso
 ✔ Infografía interactiva con hotspots  
